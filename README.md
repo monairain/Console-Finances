@@ -20,7 +20,9 @@ The greatest decrease in losses (date and amount) over the entire period.
 
 Screenshot of my test before submission
 
-    ![alt text](/assets/Screenshot.png)
+      ```md
+    ![alt text](assets/screenshot.png)
+    ```
 
 
 
